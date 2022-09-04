@@ -1,0 +1,15 @@
+D:\Учеба\Шарпы\ulearnme\Урок 1\LessonOne\LessonOne\bin\Debug\net6.0\LessonOne.exe
+D:\Учеба\Шарпы\ulearnme\Урок 1\LessonOne\LessonOne\bin\Debug\net6.0\LessonOne.deps.json
+D:\Учеба\Шарпы\ulearnme\Урок 1\LessonOne\LessonOne\bin\Debug\net6.0\LessonOne.runtimeconfig.json
+D:\Учеба\Шарпы\ulearnme\Урок 1\LessonOne\LessonOne\bin\Debug\net6.0\LessonOne.dll
+D:\Учеба\Шарпы\ulearnme\Урок 1\LessonOne\LessonOne\bin\Debug\net6.0\LessonOne.pdb
+D:\Учеба\Шарпы\ulearnme\Урок 1\LessonOne\LessonOne\obj\Debug\net6.0\LessonOne.csproj.AssemblyReference.cache
+D:\Учеба\Шарпы\ulearnme\Урок 1\LessonOne\LessonOne\obj\Debug\net6.0\LessonOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Шарпы\ulearnme\Урок 1\LessonOne\LessonOne\obj\Debug\net6.0\LessonOne.AssemblyInfoInputs.cache
+D:\Учеба\Шарпы\ulearnme\Урок 1\LessonOne\LessonOne\obj\Debug\net6.0\LessonOne.AssemblyInfo.cs
+D:\Учеба\Шарпы\ulearnme\Урок 1\LessonOne\LessonOne\obj\Debug\net6.0\LessonOne.csproj.CoreCompileInputs.cache
+D:\Учеба\Шарпы\ulearnme\Урок 1\LessonOne\LessonOne\obj\Debug\net6.0\LessonOne.dll
+D:\Учеба\Шарпы\ulearnme\Урок 1\LessonOne\LessonOne\obj\Debug\net6.0\refint\LessonOne.dll
+D:\Учеба\Шарпы\ulearnme\Урок 1\LessonOne\LessonOne\obj\Debug\net6.0\LessonOne.pdb
+D:\Учеба\Шарпы\ulearnme\Урок 1\LessonOne\LessonOne\obj\Debug\net6.0\LessonOne.genruntimeconfig.cache
+D:\Учеба\Шарпы\ulearnme\Урок 1\LessonOne\LessonOne\obj\Debug\net6.0\ref\LessonOne.dll

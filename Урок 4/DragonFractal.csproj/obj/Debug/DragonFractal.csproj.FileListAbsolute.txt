@@ -1,0 +1,8 @@
+D:\Учеба\Шарпы\ulearnme\Урок 4\DragonFractal.csproj\bin\Debug\DragonFractal.exe.config
+D:\Учеба\Шарпы\ulearnme\Урок 4\DragonFractal.csproj\bin\Debug\DragonFractal.exe
+D:\Учеба\Шарпы\ulearnme\Урок 4\DragonFractal.csproj\bin\Debug\DragonFractal.pdb
+D:\Учеба\Шарпы\ulearnme\Урок 4\DragonFractal.csproj\obj\Debug\DragonFractal.csproj.AssemblyReference.cache
+D:\Учеба\Шарпы\ulearnme\Урок 4\DragonFractal.csproj\obj\Debug\DragonFractal.csproj.SuggestedBindingRedirects.cache
+D:\Учеба\Шарпы\ulearnme\Урок 4\DragonFractal.csproj\obj\Debug\DragonFractal.csproj.CoreCompileInputs.cache
+D:\Учеба\Шарпы\ulearnme\Урок 4\DragonFractal.csproj\obj\Debug\DragonFractal.exe
+D:\Учеба\Шарпы\ulearnme\Урок 4\DragonFractal.csproj\obj\Debug\DragonFractal.pdb
